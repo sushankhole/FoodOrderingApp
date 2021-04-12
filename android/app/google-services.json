@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77422496649",
+    "project_id": "sush-skitchen",
+    "storage_bucket": "sush-skitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77422496649:android:03817b9bf918437c636f58",
+        "android_client_info": {
+          "package_name": "com.example.newdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77422496649-v0mocictmker4pes2v5i1mu41nroddfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGCn68fQQn7vpwhuhM9AsUh9aecaG5eHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77422496649-v0mocictmker4pes2v5i1mu41nroddfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
