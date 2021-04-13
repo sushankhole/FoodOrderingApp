@@ -20,19 +20,18 @@ video :- https://www.youtube.com/watch?v=RRC6oPplxfE&t=66s
     <tr>
     <td><img src="https://user-images.githubusercontent.com/55824155/114508318-d6811580-9c51-11eb-9bb1-876a14541706.png" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/55824155/114508327-d8e36f80-9c51-11eb-861e-e70c9b280f2c.jpg" width=270 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/55824155/114523677-1f40ca80-9c62-11eb-9e8a-77be5f727391.png" width=270 height=480></td>
   </tr>
  </table>
-
-
 
 # Menu
 ▶️WelcomePage     
 ▶️LoginPage      
-▶️RegisterPage     
+▶️SignUpPage     
 ▶️HomePage     
 ▶️DetailPage   
 ▶️CartPage    
-
+▶️EmptyCart  
 
 ## Getting Started
 
