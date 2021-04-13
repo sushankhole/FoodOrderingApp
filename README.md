@@ -26,12 +26,12 @@ video :- https://www.youtube.com/watch?v=RRC6oPplxfE&t=66s
 
 
 # Menu
-▶️WelcomePage  
-▶️LoginPage 
-▶️RegisterPage
-▶️HomePage
-▶️DetailPage
-▶️CartPage
+▶️WelcomePage     
+▶️LoginPage      
+▶️RegisterPage     
+▶️HomePage     
+▶️DetailPage   
+▶️CartPage    
 
 
 ## Getting Started
